@@ -71,5 +71,8 @@ And you're good to go!
 
 Key        | Description
 ----------:| -----------
-WebHookUrl | Grab your Webhook URL (__with the token__) from your Incoming Webhooks integration in Discord
+WebHookUrl | Grab your Webhook URL from your Incoming Webhooks integration in Discord
 Compact    | Set to true to just send the NLog layout text (no process info, colors, etc)
+
+## Inspired by 
+https://github.com/eth0izzle/NLog.Slack
