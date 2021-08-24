@@ -5,7 +5,7 @@ An NLog target for Discord
 
 Installation
 ============
-Via [NuGet](https://www.nuget.org/packages/NLog.Discord/): ```Install-Package NLog.Discord```
+Via [NuGet](https://www.nuget.org/packages/Nlog.Discord/): ```Install-Package NLog.Discord```
 
 ... or just build it your self!
 
